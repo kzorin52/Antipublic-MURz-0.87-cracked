@@ -8,7 +8,8 @@ Instruction: <br>
 5 - Go to [this site](http://myrz.org/main/ "MYRZ Home") and activate the trial <br>
 6 - Ater 2 days go to step 5, and rename key <br>
 **`Enjoy!`** <br>
-
+<br>
+<br>
 1) Скачайте архив <br>
 2) Распакуйте архив <br>
 3) Откройте файл `temnij.ini` в папке AntiPublic Cracked by Temnij <br>
